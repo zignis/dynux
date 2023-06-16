@@ -78,7 +78,7 @@ for easy access. If you are using TypeScript, include the
 a reducerManager property.
 
 ```typescript
-import {} from "dynux/augmentation";
+import {} from "dynux/dist/types/augmentation";
 import { ReducerManager } from "dynux";
 import { setupStore } from "redux";
 
