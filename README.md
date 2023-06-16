@@ -1,8 +1,19 @@
 # dynux
 
+![npm](https://img.shields.io/npm/v/dynux?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/zignis/dynux/test.yml?style=for-the-badge)
+![npm](https://img.shields.io/npm/dw/dynux?style=for-the-badge)
+![NPM](https://img.shields.io/npm/l/dynux?style=for-the-badge)
+
 **Dyn**amic red**ux** reducer injection. Allows you to reduce the 
 size of your bundle by dynamically loading and registering reducers 
 on your Redux store. It is compatible with Redux Toolkit.
+
+## Test coverage
+
+| Statements                  | Branches                | Functions                 | Lines             |
+| --------------------------- | ----------------------- | ------------------------- | ----------------- |
+| ![Statements](https://img.shields.io/badge/statements-100%25-brightgreen.svg?style=flat) | ![Branches](https://img.shields.io/badge/branches-100%25-brightgreen.svg?style=flat) | ![Functions](https://img.shields.io/badge/functions-100%25-brightgreen.svg?style=flat) | ![Lines](https://img.shields.io/badge/lines-100%25-brightgreen.svg?style=flat) |
 
 ## Configuration
 

@@ -2480,6 +2480,7 @@ __metadata:
     eslint-config-prettier: ^8.3.0
     eslint-plugin-prettier: ^4.0.0
     husky: ^7.0.2
+    istanbul-badges-readme: ^1.8.5
     jest: ^27.2.0
     pinst: ^2.1.6
     prettier: ^2.4.0
@@ -3611,6 +3612,15 @@ __metadata:
   version: 3.0.1
   resolution: "isobject@npm:3.0.1"
   checksum: db85c4c970ce30693676487cca0e61da2ca34e8d4967c2e1309143ff910c207133a969f9e4ddb2dc6aba670aabce4e0e307146c310350b298e74a31f7d464703
+  languageName: node
+  linkType: hard
+
+"istanbul-badges-readme@npm:^1.8.5":
+  version: 1.8.5
+  resolution: "istanbul-badges-readme@npm:1.8.5"
+  bin:
+    istanbul-badges-readme: lib/index.js
+  checksum: dd144dbaf9782b66bafd5ae9ef394533a824426a99b1c79eaaae8a4d0553ace786edc922d008da94076e62d350165a280cd15cbfaa4f2c926cff3f88c46c4d26
   languageName: node
   linkType: hard
 

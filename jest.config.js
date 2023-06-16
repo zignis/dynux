@@ -11,4 +11,5 @@ module.exports = {
       tsconfig: "tsconfig.json",
     },
   },
+  coverageReporters: ["json-summary"],
 };
